@@ -6,7 +6,7 @@
 #### Từ khoá hot
 [![Hot-Keyword-Photo.png](https://salt.tikicdn.com/ts/upload/a1/dc/e2/26ea3b652ba6f561491a5c928c5bb62d.png)](https://salt.tikicdn.com/ts/upload/a1/dc/e2/26ea3b652ba6f561491a5c928c5bb62d.png)
 
-Dữ liệu từ khoá hot được lấy về từ [link](https://run.mocky.io/v3/44b90241-a99e-49e3-90a2-6ab8d352d27e)
+Dữ liệu từ khoá hot được lấy về từ [link](https://run.mocky.io/v3/146a98f0-76ad-42bb-b093-65f2bd4fd767)
 1 từ khoá hot sẽ có nội dung và hình ảnh được thể hiện giống như UI:
 
 > Padding 2 bên 16px.
